@@ -6,6 +6,7 @@ Demo Video: https://drive.google.com/file/d/1Ol1roW9YVrpIwGaZK-QpPgqVzTm6dhIb/vi
 * Users can trade based on market hours, favorite stocks, and view detailed graphs using Highcharts.
 * Features include
     - Live market updates
+    - Stock Search Autocomplete
     - Sandboxed trading
     - Historical charts (up to 2 years)
     - Historical EPS charts
