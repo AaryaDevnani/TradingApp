@@ -7,16 +7,10 @@ Demo Video: https://drive.google.com/file/d/1Ol1roW9YVrpIwGaZK-QpPgqVzTm6dhIb/vi
 * Features include live market updates, sandboxed trading, historical charts (up to 2 years), historical EPS charts, and a news tab for each stock. 
 * Tech stack: SwiftUI, NodeJS, MongoDB, ExpressJS
 
- <div style="display: flex">
-  <figure style="text-align: center;">
-    <img src="./imgs/Home.png" alt="Home Page">
-    <figcaption>Home Page</figcaption>
-  </figure>
-  <figure style="text-align: center;">
-    <img src="./imgs/Stock.png" alt="Stock Page">
-    <figcaption>Stock Page</figcaption>
-  </figure>
-</div>
+
+|![Home Page](./imgs/Home.png)<br>Home Page|![Stock Page](./imgs/Stock.png)<br>Stock Page|
+|:-:|:-:|
+
 <figure style="text-align: center;">
   <img src="./imgs/News.png" alt="News Section">
   <figcaption>News Section</figcaption>
