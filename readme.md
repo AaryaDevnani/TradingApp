@@ -4,7 +4,12 @@ Demo Video: https://drive.google.com/file/d/1Ol1roW9YVrpIwGaZK-QpPgqVzTm6dhIb/vi
 
 * An app for searching and trading stocks in a sandboxed environment.
 * Users can trade based on market hours, favorite stocks, and view detailed graphs using Highcharts.
-* Features include live market updates, sandboxed trading, historical charts (up to 2 years), historical EPS charts, and a news tab for each stock. 
+* Features include
+    - Live market updates
+    - Sandboxed trading
+    - Historical charts (up to 2 years)
+    - Historical EPS charts
+    - News tab for each stock
 * Tech stack: SwiftUI, NodeJS, MongoDB, ExpressJS
 
 
