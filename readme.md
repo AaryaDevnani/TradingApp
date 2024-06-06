@@ -14,10 +14,10 @@ Demo Video: https://drive.google.com/file/d/1Ol1roW9YVrpIwGaZK-QpPgqVzTm6dhIb/vi
 * Tech stack: SwiftUI, NodeJS, MongoDB, ExpressJS
 
 
-| <img src="./imgs/Home.png" alt="Home Section" width="306" height="446"><br>Home Page|![Stock Page](https://github.com/AaryaDevnani/TradingApp/assets/62675730/740d8cb6-824f-4c0e-884f-6196a9b5434d=250x250)<br>Stock Page|
+| <img src="./imgs/Home.png" alt="Home Section" height="446"><br>Home Page|![Stock Page](https://github.com/AaryaDevnani/TradingApp/assets/62675730/740d8cb6-824f-4c0e-884f-6196a9b5434d=250x250)<br>Stock Page|
 |:-:|:-:|
 
 <figure style="text-align: center;">
-  <img src="./imgs/News.png" alt="News Section" width="306" height="446">
+  <img src="./imgs/News.png" alt="News Section" height="446">
   <figcaption>News Section</figcaption>
 </figure>
