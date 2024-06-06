@@ -19,5 +19,5 @@ Demo Video: https://drive.google.com/file/d/1Ol1roW9YVrpIwGaZK-QpPgqVzTm6dhIb/vi
 
 <figure style="text-align: center;">
   <img src="./imgs/News.png" alt="News Section" height="446">
-  <figcaption>News Section</figcaption>
+  <figcaption style="text-align: center;">News Section</figcaption>
 </figure>
