@@ -7,8 +7,6 @@
 
 
 
-|:-:|:-:|:-:|
-
 Demo Video: https://drive.google.com/file/d/1Ol1roW9YVrpIwGaZK-QpPgqVzTm6dhIb/view?usp=sharing
 
 * An app for searching and trading stocks in a sandboxed environment.
